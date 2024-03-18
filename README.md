@@ -1,4 +1,4 @@
-# task-manager
+#Taskify
 
 ### to run app
 #### go to each individial folder and run yarn or yarn install

@@ -1,2 +1,6 @@
-# Taskify
-Taskify: Next.js &amp; React powered task manager. Seamlessly sync tasks with Prisma &amp; MongoDB. Intuitive UI, real-time updates, and advanced features. Elevate your productivity today!
+# task-manager
+
+### to run app
+#### go to each individial folder and run yarn or yarn install
+#### go back to root folder and run yarn start
+
